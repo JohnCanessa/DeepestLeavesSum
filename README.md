@@ -9,7 +9,7 @@ in the tree.
 If interested in my approach and comments I invite you
 to read the followping post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2022/01/07/leetcode-1302-deepest-leaves-sum-in-java/
 
 Keep in mind that one of the best ways to learn is to read,
 experiment, and repeat.
